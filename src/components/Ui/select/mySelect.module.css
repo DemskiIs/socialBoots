@@ -1,0 +1,10 @@
+.mySelect {
+    position: absolute;
+    width: 282px;
+    height: 54px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    box-sizing: border-box;
+    border-radius: 10px;
+}

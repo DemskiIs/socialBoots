@@ -1,0 +1,8 @@
+.formWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.formMediumItem {
+    width: 95%;
+}

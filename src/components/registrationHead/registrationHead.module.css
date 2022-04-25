@@ -1,0 +1,49 @@
+.wrapper {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.priceWrapper {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+}
+
+.premium {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 48px;
+    color: #212628;
+}
+
+.singUpWith {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    color: #212628;
+    opacity: 0.6;
+}
+
+.time {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: right;
+    color: #212628;
+}
+
+.price {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 25px;
+    text-align: right;
+    color: #212628;
+}

@@ -1,0 +1,50 @@
+.wrapper {
+    width: 731px;
+    height: 589px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    text-align: center;
+    padding: 10%;
+}
+
+.logo {
+    width: 75px;
+    height: 75px;
+    background: linear-gradient(270deg, rgba(194, 53, 132, 0.6) 0%, rgba(226, 48, 108, 0.6) 24.48%, rgba(247, 119, 54, 0.6) 83.85%, rgba(250, 150, 62, 0.6) 100%);
+    border-radius: 75px;
+}
+
+.title {
+    padding-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 70px;
+    letter-spacing: 0.005em;
+    color: #212628;
+}
+
+.title2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 46px;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: rgba(33, 38, 40, 0.7);
+}
+
+.text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: rgba(33, 38, 40, 0.7);
+    padding-bottom: 30px;
+}

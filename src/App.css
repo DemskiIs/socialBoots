@@ -1,0 +1,22 @@
+@import "~antd/dist/antd.css";
+
+#root {
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+
+.AppWrapper {
+   align-items: center;
+}
+
+.header {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 30px;
+   line-height: 48px;
+   color: #212628;
+   text-align: center;
+   padding: 20px;
+}

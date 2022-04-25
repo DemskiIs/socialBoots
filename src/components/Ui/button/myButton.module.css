@@ -1,0 +1,19 @@
+.myBtn {
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 64px;
+    background: linear-gradient(270deg, #C23584 0%, #E2306C 24.48%, #F77736 83.85%, #FA963E 100%);
+    border-radius: 32px;
+    cursor: pointer;
+    
+}
+
+.text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+    color: #FFFFFF;
+}
